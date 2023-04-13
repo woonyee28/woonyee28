@@ -1,4 +1,4 @@
-# 💫 About Woon Yee:
+# 👧 About Woon Yee:
 Her favourite algorithm is breakfast search :D 🍳
       
 # 📊 GitHub Stats:
