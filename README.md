@@ -1,5 +1,5 @@
 # 👧 About Woon Yee:
-Her favourite algorithm is breakfast search :D 🍳
+Her favourite algorithm is bogosort :D It is like the unpredictable nature of life itself!
       
 # 📊 GitHub Stats:
 | GitHub Stats | GitHub Streak |
