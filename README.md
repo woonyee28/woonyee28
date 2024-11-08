@@ -7,7 +7,7 @@
 📝 I <del>regulary</del> write articles on <a href="https://woonyee28.github.io/">my blog
 
 ## 🤖 My Experience in AI:
-| APAC HPC-AI 2024 (SG ⋈ AUS) - Training Llama2 7B | 
+| APAC HPC-AI 2024 (SG ⋈ AUS) - Full Training on Llama2 7B | 
 | :--: |
 
 ## ⛅ My Experience in HPC:
