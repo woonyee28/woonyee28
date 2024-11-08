@@ -9,7 +9,6 @@
 ## 🤖 My Experience in AI:
 | APAC HPC-AI 2024 (SG ⋈ AUS) - Training Llama2 7B | 
 | :--: |
-| <img src="./Llama.jpg" width="400" height="200"> |
 
 ## ⛅ My Experience in HPC:
 | ISC High Performance 2024 (Hamburg, Germany) - RegCM | Supercomputing Conference 2024 (Georgia, USA) - ICON |
