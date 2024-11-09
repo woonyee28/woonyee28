@@ -6,9 +6,9 @@
 📝 I <del>regulary</del> write articles on <a href="https://woonyee28.github.io/">my blog
 
 ## 🤖 My Experience in AI:
-| APAC HPC-AI 2024 (SG ⋈ AUS) - Full Training on Llama2 7B <br> Achieved x6 Speed Up on Gadi Supercomputer | 
-| :--: |
-| <img src="https://lightning.ai/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg" width="500" height="200"> |
+| APAC HPC-AI 2024 (SG ⋈ AUS) - Full Training on Llama2 7B <br> Achieved x6 Speed Up on Gadi Supercomputer | Supercomputing Conference 2024 (Georgia, USA) <br> MLPerf Stable Diffusion XL Inference |
+| :--: | :--: |
+| <img src="https://lightning.ai/static/media/logo-with-text-dark.bdcfdf86bccb9812ed1d3ec873e9e771.svg" width="500" height="200"> | <img src="https://cdn-ilbpocf.nitrocdn.com/lHZerXcFvsiWWpQCbRlCFPNfPwvyoEDp/assets/images/optimized/rev-2706959/mlcommons.org/wp-content/uploads/2024/08/MLPERF-V4_1-GRAPHIC-2048x1134.png" width="500" height="200"> |
 
 ## ⛅ My Experience in HPC:
 | ISC High Performance 2024 (Hamburg, Germany) - RegCM | Supercomputing Conference 2024 (Georgia, USA) - ICON |
